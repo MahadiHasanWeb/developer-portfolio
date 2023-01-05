@@ -190,3 +190,28 @@ main {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+.resume-btn{
+    margin-top: 40px;
+    text-align: center;
+}
+
+/* Footer */
+
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+   padding: 130px 200px;
+}
+.contact .section-title{
+    text-align: center;
+}
+.text-area{
+    margin-bottom: 24px;
+    border: 0;
+    padding: 18px 30px;
+}
+.contact a{
+    text-decoration: none;
+    margin-right: 20px;
+}
